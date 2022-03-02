@@ -1,0 +1,131 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+table {
+  
+  position: relative;
+  border-collapse: collapse; 
+}
+
+.horizontal-scroll {
+  overflow: hidden;
+  overflow-x: auto;
+  clear: both;
+  width: 100%;
+}
+
+th {
+  
+  position: sticky;
+  top: 0; 
+  box-shadow: 0 2px 2px -1px rgba(0, 0, 0, 0.4);
+}
+
+.main-price-table {
+    box-shadow: 0 0 24px rgba(0, 0, 0, 0.15);
+   overflow-x: auto;
+    
+    margin: 0 auto;
+}
+.price-table {
+   min-width: 1170px;
+    border-collapse: collapse;
+    border: 0 none;
+   
+}
+.price-table tr:not(:last-child) {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.03);
+}
+.price-table tr td {
+    border-left: 1px solid rgba(0, 0, 0, 0.05);
+    padding: 8px 24px;
+    font-size: 14px;
+}
+.price-table tr td:first-child {
+    border-left: 0 none;
+}
+.price-table tr td:not(:first-child) {
+    text-align: center;
+}
+.price-table tr:nth-child(even) {
+    background-color: #FFFFFF;
+}
+.price-table tr:hover {
+    background-color: #EEEEEE;
+}
+.price-table .fa-check {
+    color: #5336ca;
+}
+.price-table .fa-times {
+    color: #D8D6E3;
+}
+
+
+.price-table tr:nth-child(1), .price-table tr:nth-child(2) {
+    border-bottom: transparent;
+}
+
+
+
+/*
+
+.price-table tr:nth-child(2n) td:nth-child(3) {
+    background-color: rgba(216, 214, 227, 0.25);
+}
+.price-table tr td:nth-child(3) {
+    background-color: rgba(216, 214, 227, 0.15);
+    padding: 8px 48px;
+}
+.price-table tr td:nth-child(3) .fa-check,
+.price-table tr:nth-child(2n) td:nth-child(3) .fa-check {
+   
+}
+
+*/
+.price-table tr.price-table-head td {
+   
+    font-weight: 600;
+    font-family: "Montserrat";
+    text-transform: uppercase;
+}
+.price-table tr.price-table-head {
+    background-color: #eaeffd;
+    color: #335EEA;
+}
+.price-table td.price {
+    color: #f43f54;
+    padding: 16px 24px;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: "Montserrat";
+}
+.price-table td.price a {
+    background-color: #5336ca;
+    color: #FFFFFF;
+    
+  
+    font-size: 12px;
+    font-weight: 600;
+    font-family: "Montserrat";
+    text-transform: uppercase;
+    display: inline-block;
+    
+}
+.price-table td.price-table-popular {
+    font-family: "Montserrat";
+    border-top: 3px solid #5336ca;
+    color: #5336ca;
+    text-transform: uppercase;
+    font-size: 12px;
+    padding: 12px 48px;
+    font-weight: 700;
+}
+.price-table .price-blank {
+    background-color: #fafafa;
+    border: 0 none;
+}
+
+.price-table svg {
+    width: 90px;
+    fill: #5336ca;
+}</style>
+<!-- end Simple Custom CSS and JS -->
