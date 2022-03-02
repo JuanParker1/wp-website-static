@@ -1,0 +1,240 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+
+.section-pricing {
+	position: relative;
+	font-family: "Poppins", sans-serif;
+	background-color: #fff5f4;
+    padding: 120px 0;
+    color: #4a6985;
+}
+
+.section-pricing:before {
+	content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: translate(-40%,-40%);
+    width: 800px;
+    height: 800px;
+    border: 150px solid #fff;
+    border-radius: 50%;
+}
+
+.section-pricing .header-section .plans-buttons {
+    display: inline-block;
+    margin-bottom: 35px;
+    box-shadow: 0 10px 30px rgb(236, 229, 228);
+    padding: 10px;
+    font-family: "Rubik", sans-serif;
+}
+
+.section-pricing .header-section .plans-buttons .monthly,
+.section-pricing .header-section .plans-buttons .yearly {
+	display: inline-block;
+	padding: 15px 40px;
+	border: 1px solid rgba(0,0,0,0);
+	cursor: pointer;
+	transition: all .3s;
+}
+
+.section-pricing .header-section .plans-buttons span:not(:last-child) {
+	margin-right: 5px;
+}
+
+.section-pricing .header-section .plans-buttons .monthly:hover,
+.section-pricing .header-section .plans-buttons .yearly:hover {
+	border: 1px solid #ff9686;
+}
+
+.section-pricing .header-section .plans-buttons .active {
+    background-color: #ff9686;
+    border: 1px solid #ff9686;
+    color: #fff;
+}
+
+.section-pricing .header-section .plans-buttons .perc {
+    display: inline-block;
+    background-color: #ff6b8f;
+    border-radius: 20px;
+    color: #fff;
+    font-size: 12px;
+    padding: 1px 12px;
+    margin-left: 10px;
+}
+
+.section-pricing .header-section .title {
+    font-family: "Rubik", sans-serif;
+    color: #000;
+    font-size: 70px;
+    font-weight: 700;
+}
+
+.section-pricing .header-section .description {
+    font-size: 17px;
+    margin-top: 15px;
+}
+
+.section-pricing .plans .single-plan {
+    padding: 60px 30px;
+	background-color: #fff;
+    border-bottom: 6px solid #ff6b8f;
+}
+
+.section-pricing .plans .single-plan .title {
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-family: "Rubik", sans-serif;
+    letter-spacing: 0.1em;
+    color: #ff6b8f;
+}
+
+.section-pricing .plans .single-plan .description {
+    margin-bottom: 35px;
+    font-size: 15px;
+}
+
+.section-pricing .single-plan .icon {
+    display: inline-block;
+    margin-bottom: 15px;
+    border: 2px solid rgba(255, 107, 143, 0.1);
+    border-radius: 50%;
+    padding: 25px;
+}
+
+.section-pricing .plans .single-plan .icon img {
+	width: 60px;
+}
+
+.section-pricing .plans .single-plan .price {
+	margin-bottom: 35px;
+}
+
+.section-pricing .plans .single-plan .price .dolar {
+	color: #000;
+    font-family: "Rubik", sans-serif;
+}
+
+.section-pricing .plans .single-plan .price .number {
+    color: #000;
+    font-family: "Rubik", sans-serif;
+    font-size: 60px;
+}
+
+.section-pricing .plans .single-plan .price .plan-name {
+	display: block;
+    margin-top: -20px;
+}
+
+.section-pricing .plans .single-plan a.purchase-button {
+    display: inline-block;
+    background-color: #ff6b8f;
+    color: #fff;
+    font-family: "Rubik", sans-serif;
+    padding: 15px 40px;
+    text-decoration: none;
+    transition: all .3s;
+}
+
+.section-pricing .plans .single-plan .purchase-button:hover {
+    box-shadow: 0 5px 10px 0px rgba(255,107,143,.4);
+}
+
+.section-pricing .plans .active {
+    position: relative;
+    padding: 90px 30px;
+    background-image: url("https://i.ibb.co/mHWFDpL/bg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #fff;
+    border: none;
+}
+
+.section-pricing .plans .active:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: linear-gradient(to right bottom, #40008a, #ff9686);
+    opacity: 0.9;
+    z-index: 10;
+}
+
+.section-pricing .plans .active .content {
+    position: inherit;
+    z-index: 20;
+}
+
+.section-pricing .plans .active .title {
+    color: #fff;
+}
+
+.section-pricing .active .icon {
+    border-color: #fff;
+    background-color: #fff;
+}
+
+.section-pricing .plans .active .price .dolar {
+    color: #fff;
+}
+
+.section-pricing .plans .active .price .number {
+    color: #fff;
+}
+
+.section-pricing .plans .active a.purchase-button {
+    background-color: #fff;
+    color: #000;
+}
+
+.section-pricing .plans .active .purchase-button:hover {
+    box-shadow: 0 5px 10px 0px rgba(255,255,255,.4);
+}
+
+@media (max-width: 575.99px) {
+    .section-pricing .header-section {
+        margin-bottom: 60px;
+    }
+
+    .section-pricing .header-section .title {
+        font-size: 50px;
+    }
+
+    .section-pricing .header-section .description {
+        font-size: 16px;
+    }
+
+    .section-pricing .plans {
+        flex-wrap: wrap;
+    }
+
+    .section-pricing .plans .single-plan {
+        flex: 0 0 100%;
+    }
+
+    .section-pricing .plans .active {
+        padding: 60px 30px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767.99px) {
+    .section-pricing .header-section {
+        margin-bottom: 60px;
+    }
+
+    .section-pricing .header-section .title {
+        font-size: 60px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.99px) {
+    .section-pricing .header-section {
+        margin-bottom: 60px;
+    }
+}
+
+</style>
+<!-- end Simple Custom CSS and JS -->
