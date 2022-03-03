@@ -1,0 +1,14 @@
+
+---Downloaded files---
+The import files for: Blog were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://blogwp.apimatic.io
+Data file = /home/a64t3on3mn2m/public_html/wp-content/uploads/2021/10/demo-content-import-file_2021-10-20__09-44-30.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---ocdi/after_import---
+
