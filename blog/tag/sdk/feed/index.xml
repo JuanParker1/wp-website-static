@@ -48,15 +48,14 @@
 					<description><![CDATA[<p>Hence it comes as no surprise why code samples make an important part of the developer experience checklist list for several APIs programs, including the likes of Amazon, Facebook, Twilio, and Stripe. All of them have code samples included one way or the other and have found massive success. And for a very good reason. [&#8230;]</p>
 <p>The post <a rel="nofollow" href="/blog/the-anatomy-of-api-code-samples/">The Anatomy of API Code Samples</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="359" class="elementor elementor-359" data-elementor-settings="[]">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-2c773500 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2c773500" data-element_type="section">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="359" class="elementor elementor-359">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-2c773500 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2c773500" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-41f291e6" data-id="41f291e6" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-7abbf594 elementor-widget elementor-widget-text-editor" data-id="7abbf594" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.5.6 - 28-02-2022 */
+			<style>/*! elementor - v3.6.1 - 23-03-2022 */
 .elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<!-- wp:image -->
 <figure class="wp-block-image size-large"></figure>
 <div class="boldgrid-section">
@@ -652,8 +651,7 @@ public class PetModel {
 		</div>
 							</div>
 		</section>
-						</div>
-					</div>
+							</div>
 		<p>The post <a rel="nofollow" href="/blog/the-anatomy-of-api-code-samples/">The Anatomy of API Code Samples</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
@@ -679,9 +677,8 @@ public class PetModel {
 					<description><![CDATA[<p>Ensuring the quality of automatically generated code has always been a tough nut to crack at APIMatic. Code generation engines dynamically generate code; a section of code that appears in a generated SDK might be different or even non-existent in other SDKs. How, then, can the correctness of generated code be ensured when its form [&#8230;]</p>
 <p>The post <a rel="nofollow" href="/blog/testing-auto-generated-sdks-problems-techniques-and-goals/">Testing Auto-Generated SDKs — Problems, Techniques and Goals</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="532" class="elementor elementor-532" data-elementor-settings="[]">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-49564178 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="49564178" data-element_type="section">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="532" class="elementor elementor-532">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-49564178 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="49564178" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-37bf436c" data-id="37bf436c" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -766,8 +763,7 @@ public class PetModel {
 		</div>
 							</div>
 		</section>
-						</div>
-					</div>
+							</div>
 		<p>The post <a rel="nofollow" href="/blog/testing-auto-generated-sdks-problems-techniques-and-goals/">Testing Auto-Generated SDKs — Problems, Techniques and Goals</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
@@ -793,9 +789,8 @@ public class PetModel {
 					<description><![CDATA[<p>Neutrino API&#160;launched back in 2013 on a mission to fix those inherently complex problems which crop up in almost all software projects. The Neutrino API platform provides a highly available, performant global network that lets developers focus on their product and not on building and maintaining complex in-house tools not relevant to their core business. [&#8230;]</p>
 <p>The post <a rel="nofollow" href="/blog/neutrino-api-leveraging-apimatic-to-reach-a-wider-developer-audience/">Neutrino API: Leveraging APIMatic to Reach a Wider Developer Audience</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="547" class="elementor elementor-547" data-elementor-settings="[]">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-1a696a67 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1a696a67" data-element_type="section">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="547" class="elementor elementor-547">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-1a696a67 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1a696a67" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4704375c" data-id="4704375c" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -889,8 +884,7 @@ public class PetModel {
 		</div>
 							</div>
 		</section>
-						</div>
-					</div>
+							</div>
 		<p>The post <a rel="nofollow" href="/blog/neutrino-api-leveraging-apimatic-to-reach-a-wider-developer-audience/">Neutrino API: Leveraging APIMatic to Reach a Wider Developer Audience</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
@@ -917,9 +911,8 @@ public class PetModel {
 					<description><![CDATA[<p>Some of the most popular and well-respected APIs use OAuth 2.0 to authorize user data sharing. Facebook, GitHub, and many others are among those who have adopted the standard. We have been planning on adding proper support for OAuth 2.0 in our SDKs for quite some time now and are excited to announce that the [&#8230;]</p>
 <p>The post <a rel="nofollow" href="/blog/apimatic-the-first-ever-sdk-generator-to-support-oauth-2-0/">APIMatic: The first ever SDK generator to support OAuth 2.0</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="541" class="elementor elementor-541" data-elementor-settings="[]">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-7baf9e4b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7baf9e4b" data-element_type="section">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="541" class="elementor elementor-541">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-7baf9e4b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7baf9e4b" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2a4d3967" data-id="2a4d3967" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -1061,8 +1054,7 @@ public class PetModel {
 		</div>
 							</div>
 		</section>
-						</div>
-					</div>
+							</div>
 		<p>The post <a rel="nofollow" href="/blog/apimatic-the-first-ever-sdk-generator-to-support-oauth-2-0/">APIMatic: The first ever SDK generator to support OAuth 2.0</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
@@ -1087,9 +1079,8 @@ public class PetModel {
 					<description><![CDATA[<p>Automated SDK generation is a tricky challenge; on one hand, you want to keep SDKs lean with minimal code and dependencies and on the other hand, you want to allow API providers to customize the generated code according to the needs of their developers such that SDKs can be more than mere language wrappers of [&#8230;]</p>
 <p>The post <a rel="nofollow" href="/blog/behind-the-scenes-of-sdk-generation/">Behind the Scenes of SDK Generation</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="535" class="elementor elementor-535" data-elementor-settings="[]">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-77137095 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="77137095" data-element_type="section">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="535" class="elementor elementor-535">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-77137095 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="77137095" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-41d1c8b1" data-id="41d1c8b1" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -1246,8 +1237,7 @@ public class PetModel {
 		</div>
 							</div>
 		</section>
-						</div>
-					</div>
+							</div>
 		<p>The post <a rel="nofollow" href="/blog/behind-the-scenes-of-sdk-generation/">Behind the Scenes of SDK Generation</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
