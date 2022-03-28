@@ -48,15 +48,14 @@
 					<description><![CDATA[<p>Are you looking to provide a smooth developer experience with your APIs and as a result maximize API consumption? Then, you can’t really afford to put off API documentation as a last thought. After all, it is one of the critical pieces of any good developer experience program along with platform SDKs, code samples etc. [&#8230;]</p>
 <p>The post <a rel="nofollow" href="/blog/curating-postman-collections-to-generate-quality-api-documentation-sdks/">Curating Postman Collections To Generate Quality API Documentation &#038; SDKs</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="140" class="elementor elementor-140" data-elementor-settings="[]">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-18c89b1c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="18c89b1c" data-element_type="section">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="140" class="elementor elementor-140">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-18c89b1c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="18c89b1c" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7cf44855" data-id="7cf44855" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-3be71a1f elementor-widget elementor-widget-text-editor" data-id="3be71a1f" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.5.6 - 28-02-2022 */
+			<style>/*! elementor - v3.6.1 - 23-03-2022 */
 .elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<!-- wp:paragraph -->
 <div class="boldgrid-section">
 <div class="container">
@@ -404,8 +403,7 @@
 		</div>
 							</div>
 		</section>
-						</div>
-					</div>
+							</div>
 		<p>The post <a rel="nofollow" href="/blog/curating-postman-collections-to-generate-quality-api-documentation-sdks/">Curating Postman Collections To Generate Quality API Documentation &#038; SDKs</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
@@ -430,9 +428,8 @@
 					<description><![CDATA[<p>Having an API means providing the complete package to your customers so they can conveniently and effectively consume that API. This includes detailed, up-to-date documentation, SDKs in your customer’s favorite language, and any other tools to help get up to speed on your API. Of course, that implies that any changes you make to your [&#8230;]</p>
 <p>The post <a rel="nofollow" href="/blog/why-your-api-needs-machine-readable-description-832e805f6855/">Why Your API Needs Machine-Readable Description</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="280" class="elementor elementor-280" data-elementor-settings="[]">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-5a120553 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5a120553" data-element_type="section">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="280" class="elementor elementor-280">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-5a120553 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5a120553" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-44268cb0" data-id="44268cb0" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -526,8 +523,7 @@
 		</div>
 							</div>
 		</section>
-						</div>
-					</div>
+							</div>
 		<p>The post <a rel="nofollow" href="/blog/why-your-api-needs-machine-readable-description-832e805f6855/">Why Your API Needs Machine-Readable Description</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
@@ -554,9 +550,8 @@
 					<description><![CDATA[<p>After the integration of APIMatic’s API consumption services into the Apiary’s API design offerings, the overall developer’s experience has led towards total automation of API delivery mechanism. APIMatic’s SDK generating Widget complements the current API documentations in Apiary with only a single click. This widget is a simple solution for generating SDKs in any of [&#8230;]</p>
 <p>The post <a rel="nofollow" href="/blog/api-design-and-api-consumption-in-one-place/">API Design and API Consumption in One Place</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="498" class="elementor elementor-498" data-elementor-settings="[]">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-594d5d3b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="594d5d3b" data-element_type="section">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="498" class="elementor elementor-498">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-594d5d3b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="594d5d3b" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-717c7ec1" data-id="717c7ec1" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -679,8 +674,7 @@
 		</div>
 							</div>
 		</section>
-						</div>
-					</div>
+							</div>
 		<p>The post <a rel="nofollow" href="/blog/api-design-and-api-consumption-in-one-place/">API Design and API Consumption in One Place</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
@@ -707,9 +701,8 @@
 					<description><![CDATA[<p>The wait is over! We have added RAML 1.0 and Postman 2.0 to our list of &#160;supported API formats. So grab your RAML 1.0 or Postman 2.0 APIs and start converting them to other formats of your choice or convert your existing APIs to these new formats. Unlike before, you can now also convert your [&#8230;]</p>
 <p>The post <a rel="nofollow" href="/blog/introducing-new-supported-formats-raml-1-0-postman-2-0/">Introducing New Supported Formats: RAML 1.0, Postman 2.0</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="469" class="elementor elementor-469" data-elementor-settings="[]">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-22a9c99d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="22a9c99d" data-element_type="section">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="469" class="elementor elementor-469">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-22a9c99d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="22a9c99d" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3452a568" data-id="3452a568" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -988,8 +981,7 @@ get:
 		</div>
 							</div>
 		</section>
-						</div>
-					</div>
+							</div>
 		<p>The post <a rel="nofollow" href="/blog/introducing-new-supported-formats-raml-1-0-postman-2-0/">Introducing New Supported Formats: RAML 1.0, Postman 2.0</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
@@ -1016,9 +1008,8 @@ get:
 					<description><![CDATA[<p>Swagger 2.0 spec was created with the foresight of allowing 3rd-party vendors to implement tool-specific extensions. These extensions allow customizing behaviors beyond simple API descriptions. Traditionally, such behaviors used to stay locked inside custom settings, restricting the interoperability of tools and services. Using these extensions, we can not only offer extended compatibility between tools and [&#8230;]</p>
 <p>The post <a rel="nofollow" href="/blog/swagger-2-0-extension-for-code-generation-settings/">Swagger 2.0 Extension for Code Generation Settings</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="456" class="elementor elementor-456" data-elementor-settings="[]">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-5ed6a492 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5ed6a492" data-element_type="section">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="456" class="elementor elementor-456">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-5ed6a492 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5ed6a492" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-24e069cf" data-id="24e069cf" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -1297,8 +1288,7 @@ get:
 		</div>
 							</div>
 		</section>
-						</div>
-					</div>
+							</div>
 		<p>The post <a rel="nofollow" href="/blog/swagger-2-0-extension-for-code-generation-settings/">Swagger 2.0 Extension for Code Generation Settings</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
