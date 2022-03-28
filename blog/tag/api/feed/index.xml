@@ -50,15 +50,14 @@
 					<description><![CDATA[<p>With organizations going increasingly digital, it has become challenging for API providers to maintain API visibility amongst a plethora of APIs and ensure faster API adoption. This is where developer experience pivots the developer’s decision in your API’s favor. Keeping this challenge in mind, APIMatic has undergone numerous updates to get you the most out [&#8230;]</p>
 <p>The post <a rel="nofollow" href="/blog/whats-new-in-apimatic-v3/">What’s New in APIMatic v3?</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="443" class="elementor elementor-443" data-elementor-settings="[]">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-6d794aaf elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6d794aaf" data-element_type="section">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="443" class="elementor elementor-443">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-6d794aaf elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6d794aaf" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2bd1a153" data-id="2bd1a153" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-4ecb43bb elementor-widget elementor-widget-text-editor" data-id="4ecb43bb" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.5.6 - 28-02-2022 */
+			<style>/*! elementor - v3.6.1 - 23-03-2022 */
 .elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<!-- wp:image -->
 <figure class="wp-block-image size-large">
 <p class="mod-reset"><img class="wp-image-444 aligncenter" src="/wp-content/uploads/2021/12/1_YOxwTEYQH2n9iAsyN5T2og-1024x512.png" alt="APIMatic v3 " width="1024" height="512"></p>
@@ -293,8 +292,7 @@
 		</div>
 							</div>
 		</section>
-						</div>
-					</div>
+							</div>
 		<p>The post <a rel="nofollow" href="/blog/whats-new-in-apimatic-v3/">What’s New in APIMatic v3?</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
@@ -323,9 +321,8 @@
 					<description><![CDATA[<p>This blog is the fifth part of the series called “API Transformer Recipes”. The series aims to highlight numerous ways in which developers can integrate&#160;API Transformer&#160;into their workflow in order to gain access to a wide range of tools and frameworks. Hopefully, it should eliminate any assumptions that they might have about being restricted to [&#8230;]</p>
 <p>The post <a rel="nofollow" href="/blog/the-whys-and-hows-of-exposing-a-soap-service-using-your-rest-api/">The Whys and Hows of Exposing a SOAP Service Using Your REST API</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1183" class="elementor elementor-1183" data-elementor-settings="[]">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-29e95da2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="29e95da2" data-element_type="section">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1183" class="elementor elementor-1183">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-29e95da2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="29e95da2" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-76519aca" data-id="76519aca" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -820,8 +817,7 @@ servers:
 		</div>
 							</div>
 		</section>
-						</div>
-					</div>
+							</div>
 		<p>The post <a rel="nofollow" href="/blog/the-whys-and-hows-of-exposing-a-soap-service-using-your-rest-api/">The Whys and Hows of Exposing a SOAP Service Using Your REST API</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
@@ -850,9 +846,8 @@ servers:
 					<description><![CDATA[<p>Hence it comes as no surprise why code samples make an important part of the developer experience checklist list for several APIs programs, including the likes of Amazon, Facebook, Twilio, and Stripe. All of them have code samples included one way or the other and have found massive success. And for a very good reason. [&#8230;]</p>
 <p>The post <a rel="nofollow" href="/blog/the-anatomy-of-api-code-samples/">The Anatomy of API Code Samples</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="359" class="elementor elementor-359" data-elementor-settings="[]">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-2c773500 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2c773500" data-element_type="section">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="359" class="elementor elementor-359">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-2c773500 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2c773500" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-41f291e6" data-id="41f291e6" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -1453,8 +1448,7 @@ public class PetModel {
 		</div>
 							</div>
 		</section>
-						</div>
-					</div>
+							</div>
 		<p>The post <a rel="nofollow" href="/blog/the-anatomy-of-api-code-samples/">The Anatomy of API Code Samples</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
@@ -1482,9 +1476,8 @@ public class PetModel {
 					<description><![CDATA[<p>According to the United States Department of Health and Human Services, there are over 39.6 million elderly people in the US, out of which 1 Million are being actively served an elderly care facility. Today’s seniors want to better leverage technology to enhance their quality of life. The industry, estimated at $740 billion, is full [&#8230;]</p>
 <p>The post <a rel="nofollow" href="/blog/serving-the-senior-living-industry-with-caremerge-api/">Serving The Senior Living Industry with Caremerge API</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="398" class="elementor elementor-398" data-elementor-settings="[]">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-144a492c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="144a492c" data-element_type="section">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="398" class="elementor elementor-398">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-144a492c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="144a492c" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-72f7b65c" data-id="72f7b65c" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -1551,8 +1544,7 @@ public class PetModel {
 		</div>
 							</div>
 		</section>
-						</div>
-					</div>
+							</div>
 		<p>The post <a rel="nofollow" href="/blog/serving-the-senior-living-industry-with-caremerge-api/">Serving The Senior Living Industry with Caremerge API</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
@@ -1581,9 +1573,8 @@ public class PetModel {
 					<description><![CDATA[<p>Every day, 23 billion SMS messages are sent worldwide, which is equivalent to 16 million messages per minute, exchanged between 7 billion mobile subscribers across the world — (CTIA) The SMS industry is huge, and the bulk SMS industry huger. Wide adoption and availability of the technology has made it the number one choice of [&#8230;]</p>
 <p>The post <a rel="nofollow" href="/blog/state-of-developer-experience-sms-apis-2020/">State of Developer Experience: SMS APIs 2020</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="436" class="elementor elementor-436" data-elementor-settings="[]">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-21c95151 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="21c95151" data-element_type="section">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="436" class="elementor elementor-436">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-21c95151 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="21c95151" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-33c470a0" data-id="33c470a0" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -1787,8 +1778,7 @@ public class PetModel {
 		</div>
 							</div>
 		</section>
-						</div>
-					</div>
+							</div>
 		<p>The post <a rel="nofollow" href="/blog/state-of-developer-experience-sms-apis-2020/">State of Developer Experience: SMS APIs 2020</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
@@ -1816,9 +1806,8 @@ public class PetModel {
 					<description><![CDATA[<p>This blog is based on a talk presented at APIMatic’s meet-up&#160;&#160;in San Francisco earlier in the year.&#160; API specifications have become a crucial part of the API life cycle, acting as a gateway to better design, documentation and tooling for your API. Due to the growing popularity of API specifications, more and more organizations are [&#8230;]</p>
 <p>The post <a rel="nofollow" href="/blog/6-practices-to-achieve-consistency-across-api-specifications/">6 Practices to Achieve Consistency across API Specifications</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="666" class="elementor elementor-666" data-elementor-settings="[]">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-e60d326 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e60d326" data-element_type="section">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="666" class="elementor elementor-666">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-e60d326 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e60d326" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1fa8c7cd" data-id="1fa8c7cd" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -1892,8 +1881,7 @@ public class PetModel {
 		</div>
 							</div>
 		</section>
-						</div>
-					</div>
+							</div>
 		<p>The post <a rel="nofollow" href="/blog/6-practices-to-achieve-consistency-across-api-specifications/">6 Practices to Achieve Consistency across API Specifications</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
@@ -1922,9 +1910,8 @@ public class PetModel {
 					<description><![CDATA[<p>This blog is the fourth part of the series called “API Transformer Recipes”. The series aims to highlight numerous ways in which developers can integrate&#160;API Transformer into their workflow in order to gain access to a wide range of tools and frameworks. Hopefully, it will help eliminate any assumptions that they have about being restricted [&#8230;]</p>
 <p>The post <a rel="nofollow" href="/blog/moving-to-graphql-from-soap-or-rest/">Moving to GraphQL from SOAP or REST</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="624" class="elementor elementor-624" data-elementor-settings="[]">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-5fc28771 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5fc28771" data-element_type="section">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="624" class="elementor elementor-624">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-5fc28771 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5fc28771" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1d7582c7" data-id="1d7582c7" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -2287,8 +2274,7 @@ schema {
 		</div>
 							</div>
 		</section>
-						</div>
-					</div>
+							</div>
 		<p>The post <a rel="nofollow" href="/blog/moving-to-graphql-from-soap-or-rest/">Moving to GraphQL from SOAP or REST</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
@@ -2319,9 +2305,8 @@ schema {
 					<description><![CDATA[<p>FinTech Startups have leveraged upon the utility of Web APIs to dominate the financial services industry, and traditional financial institutes are following suit, executing strategies like the&#160; Open Banking&#160; initiative, to expose their services. When so many options are available, putting out an API is never enough, it’s essential to make sure developers can actually [&#8230;]</p>
 <p>The post <a rel="nofollow" href="/blog/popular-developer-experience-practices-fintech-and-banking-apis/">Popular Developer Experience Practices: FinTech and Banking APIs</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="627" class="elementor elementor-627" data-elementor-settings="[]">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-68285476 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="68285476" data-element_type="section">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="627" class="elementor elementor-627">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-68285476 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="68285476" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-31224221" data-id="31224221" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -3056,8 +3041,7 @@ schema {
 		</div>
 							</div>
 		</section>
-						</div>
-					</div>
+							</div>
 		<p>The post <a rel="nofollow" href="/blog/popular-developer-experience-practices-fintech-and-banking-apis/">Popular Developer Experience Practices: FinTech and Banking APIs</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
@@ -3087,9 +3071,8 @@ schema {
 					<description><![CDATA[<p>The Banking and Finance industry is one of the most heavily regulated sectors of the world. The regulations, although important to protect the integrity of the system and customer interest, come at the cost of hindered advancement and such had been the case for the industry. This was until the rise of FinTech companies, who [&#8230;]</p>
 <p>The post <a rel="nofollow" href="/blog/state-of-developer-experience-banking-and-fintech-2019/">State of Developer Experience: Banking and FinTech 2019</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="660" class="elementor elementor-660" data-elementor-settings="[]">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-34f857ff elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="34f857ff" data-element_type="section">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="660" class="elementor elementor-660">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-34f857ff elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="34f857ff" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4aea8260" data-id="4aea8260" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -3273,8 +3256,7 @@ schema {
 		</div>
 							</div>
 		</section>
-						</div>
-					</div>
+							</div>
 		<p>The post <a rel="nofollow" href="/blog/state-of-developer-experience-banking-and-fintech-2019/">State of Developer Experience: Banking and FinTech 2019</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
@@ -3301,9 +3283,8 @@ schema {
 					<description><![CDATA[<p>Time sure flies and here we are — once again ready to analyze&#160;API Transformer&#160;over the course of one more year. We did a similar analysis back in 2017 as well. If you are interested, do check it out&#160;here. Interestingly, API Transformer’s usage appears to be doubling every year as can be seen from the figure [&#8230;]</p>
 <p>The post <a rel="nofollow" href="/blog/api-transformer-insights-2018/">API Transformer Insights 2018</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="669" class="elementor elementor-669" data-elementor-settings="[]">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-4f6c7104 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4f6c7104" data-element_type="section">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="669" class="elementor elementor-669">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-4f6c7104 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4f6c7104" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6bc3f95e" data-id="6bc3f95e" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -3805,8 +3786,7 @@ schema {
 		</div>
 							</div>
 		</section>
-						</div>
-					</div>
+							</div>
 		<p>The post <a rel="nofollow" href="/blog/api-transformer-insights-2018/">API Transformer Insights 2018</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
