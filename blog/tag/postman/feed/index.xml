@@ -48,15 +48,14 @@
 					<description><![CDATA[<p>Are you looking to provide a smooth developer experience with your APIs and as a result maximize API consumption? Then, you can’t really afford to put off API documentation as a last thought. After all, it is one of the critical pieces of any good developer experience program along with platform SDKs, code samples etc. [&#8230;]</p>
 <p>The post <a rel="nofollow" href="/blog/curating-postman-collections-to-generate-quality-api-documentation-sdks/">Curating Postman Collections To Generate Quality API Documentation &#038; SDKs</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="140" class="elementor elementor-140" data-elementor-settings="[]">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-18c89b1c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="18c89b1c" data-element_type="section">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="140" class="elementor elementor-140">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-18c89b1c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="18c89b1c" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7cf44855" data-id="7cf44855" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-3be71a1f elementor-widget elementor-widget-text-editor" data-id="3be71a1f" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.5.6 - 28-02-2022 */
+			<style>/*! elementor - v3.6.1 - 23-03-2022 */
 .elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<!-- wp:paragraph -->
 <div class="boldgrid-section">
 <div class="container">
@@ -404,8 +403,7 @@
 		</div>
 							</div>
 		</section>
-						</div>
-					</div>
+							</div>
 		<p>The post <a rel="nofollow" href="/blog/curating-postman-collections-to-generate-quality-api-documentation-sdks/">Curating Postman Collections To Generate Quality API Documentation &#038; SDKs</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
@@ -433,9 +431,8 @@
 					<description><![CDATA[<p>This blog is first of the many to come as part of my new series called “API Transformer Recipes”. The series aims to highlight numerous ways in which developers can integrate&#160;API Transformer&#160;into their workflow in order to gain access to a wide range of tools and frameworks. Hopefully, it will help eliminate any assumptions that [&#8230;]</p>
 <p>The post <a rel="nofollow" href="/blog/api-transformer-recipes-enabling-postmans-team-sharing-features-for-openapi-users/">API Transformer Recipes: Enabling Postman’s Team Sharing Features for OpenAPI Users</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="579" class="elementor elementor-579" data-elementor-settings="[]">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-787f8752 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="787f8752" data-element_type="section">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="579" class="elementor elementor-579">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-787f8752 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="787f8752" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7ae21081" data-id="7ae21081" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -555,8 +552,7 @@
 		</div>
 							</div>
 		</section>
-						</div>
-					</div>
+							</div>
 		<p>The post <a rel="nofollow" href="/blog/api-transformer-recipes-enabling-postmans-team-sharing-features-for-openapi-users/">API Transformer Recipes: Enabling Postman’s Team Sharing Features for OpenAPI Users</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
@@ -582,9 +578,8 @@
 
 					<description><![CDATA[<p>The post <a rel="nofollow" href="/blog/unlocking-api-formats-for-postman-collections/">Unlocking API formats for Postman Collections</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="495" class="elementor elementor-495" data-elementor-settings="[]">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-5e2fdd25 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5e2fdd25" data-element_type="section">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="495" class="elementor elementor-495">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-5e2fdd25 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5e2fdd25" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5621ff59" data-id="5621ff59" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -681,8 +676,7 @@
 		</div>
 							</div>
 		</section>
-						</div>
-					</div>
+							</div>
 		<p>The post <a rel="nofollow" href="/blog/unlocking-api-formats-for-postman-collections/">Unlocking API formats for Postman Collections</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
@@ -709,9 +703,8 @@
 					<description><![CDATA[<p>The wait is over! We have added RAML 1.0 and Postman 2.0 to our list of &#160;supported API formats. So grab your RAML 1.0 or Postman 2.0 APIs and start converting them to other formats of your choice or convert your existing APIs to these new formats. Unlike before, you can now also convert your [&#8230;]</p>
 <p>The post <a rel="nofollow" href="/blog/introducing-new-supported-formats-raml-1-0-postman-2-0/">Introducing New Supported Formats: RAML 1.0, Postman 2.0</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="469" class="elementor elementor-469" data-elementor-settings="[]">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-22a9c99d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="22a9c99d" data-element_type="section">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="469" class="elementor elementor-469">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-22a9c99d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="22a9c99d" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3452a568" data-id="3452a568" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -990,8 +983,7 @@ get:
 		</div>
 							</div>
 		</section>
-						</div>
-					</div>
+							</div>
 		<p>The post <a rel="nofollow" href="/blog/introducing-new-supported-formats-raml-1-0-postman-2-0/">Introducing New Supported Formats: RAML 1.0, Postman 2.0</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
