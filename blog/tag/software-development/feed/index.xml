@@ -48,15 +48,14 @@
 					<description><![CDATA[<p>Hence it comes as no surprise why code samples make an important part of the developer experience checklist list for several APIs programs, including the likes of Amazon, Facebook, Twilio, and Stripe. All of them have code samples included one way or the other and have found massive success. And for a very good reason. [&#8230;]</p>
 <p>The post <a rel="nofollow" href="/blog/the-anatomy-of-api-code-samples/">The Anatomy of API Code Samples</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="359" class="elementor elementor-359" data-elementor-settings="[]">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-2c773500 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2c773500" data-element_type="section">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="359" class="elementor elementor-359">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-2c773500 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2c773500" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-41f291e6" data-id="41f291e6" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-7abbf594 elementor-widget elementor-widget-text-editor" data-id="7abbf594" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.5.6 - 28-02-2022 */
+			<style>/*! elementor - v3.6.1 - 23-03-2022 */
 .elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<!-- wp:image -->
 <figure class="wp-block-image size-large"></figure>
 <div class="boldgrid-section">
@@ -652,8 +651,7 @@ public class PetModel {
 		</div>
 							</div>
 		</section>
-						</div>
-					</div>
+							</div>
 		<p>The post <a rel="nofollow" href="/blog/the-anatomy-of-api-code-samples/">The Anatomy of API Code Samples</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
@@ -682,9 +680,8 @@ public class PetModel {
 					<description><![CDATA[<p>Every day, 23 billion SMS messages are sent worldwide, which is equivalent to 16 million messages per minute, exchanged between 7 billion mobile subscribers across the world — (CTIA) The SMS industry is huge, and the bulk SMS industry huger. Wide adoption and availability of the technology has made it the number one choice of [&#8230;]</p>
 <p>The post <a rel="nofollow" href="/blog/state-of-developer-experience-sms-apis-2020/">State of Developer Experience: SMS APIs 2020</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="436" class="elementor elementor-436" data-elementor-settings="[]">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-21c95151 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="21c95151" data-element_type="section">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="436" class="elementor elementor-436">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-21c95151 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="21c95151" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-33c470a0" data-id="33c470a0" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -888,8 +885,7 @@ public class PetModel {
 		</div>
 							</div>
 		</section>
-						</div>
-					</div>
+							</div>
 		<p>The post <a rel="nofollow" href="/blog/state-of-developer-experience-sms-apis-2020/">State of Developer Experience: SMS APIs 2020</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
@@ -919,9 +915,8 @@ public class PetModel {
 					<description><![CDATA[<p>The Banking and Finance industry is one of the most heavily regulated sectors of the world. The regulations, although important to protect the integrity of the system and customer interest, come at the cost of hindered advancement and such had been the case for the industry. This was until the rise of FinTech companies, who [&#8230;]</p>
 <p>The post <a rel="nofollow" href="/blog/state-of-developer-experience-banking-and-fintech-2019/">State of Developer Experience: Banking and FinTech 2019</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="660" class="elementor elementor-660" data-elementor-settings="[]">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-34f857ff elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="34f857ff" data-element_type="section">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="660" class="elementor elementor-660">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-34f857ff elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="34f857ff" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4aea8260" data-id="4aea8260" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -1105,8 +1100,7 @@ public class PetModel {
 		</div>
 							</div>
 		</section>
-						</div>
-					</div>
+							</div>
 		<p>The post <a rel="nofollow" href="/blog/state-of-developer-experience-banking-and-fintech-2019/">State of Developer Experience: Banking and FinTech 2019</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
@@ -1133,9 +1127,8 @@ public class PetModel {
 					<description><![CDATA[<p>Having a quality Developer Experience does not stop at having great API docs. You need to provide client or helper libraries in the form of SDKs (Software Development Kits) to help accelerate the API consumption process. Many API experts and gurus over the years have advocated the importance of shipping out SDKs with APIs, including: [&#8230;]</p>
 <p>The post <a rel="nofollow" href="/blog/how-to-create-sdks-for-your-api-in-less-than-a-minute/">How to Create SDKs for your API in less than a Minute ⏰</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="553" class="elementor elementor-553" data-elementor-settings="[]">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-16a5e6e1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="16a5e6e1" data-element_type="section">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="553" class="elementor elementor-553">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-16a5e6e1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="16a5e6e1" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5cc2933e" data-id="5cc2933e" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -1392,8 +1385,7 @@ public class PetModel {
 		</div>
 							</div>
 		</section>
-						</div>
-					</div>
+							</div>
 		<p>The post <a rel="nofollow" href="/blog/how-to-create-sdks-for-your-api-in-less-than-a-minute/">How to Create SDKs for your API in less than a Minute ⏰</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
@@ -1418,9 +1410,8 @@ public class PetModel {
 					<description><![CDATA[<p>Let’s be honest, if you want developers to make use of your APIs, you need to make sure they deliver. And despite the incredible functionality and value your API brings to the table, if it is not designed or implemented well, it may never become a cult favorite or something developers are going to recommend [&#8230;]</p>
 <p>The post <a rel="nofollow" href="/blog/building-rest-apis-the-right-way/">Building REST APIs the Right Way</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="576" class="elementor elementor-576" data-elementor-settings="[]">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-11ed5981 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="11ed5981" data-element_type="section">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="576" class="elementor elementor-576">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-11ed5981 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="11ed5981" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-54793eb0" data-id="54793eb0" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -1753,8 +1744,7 @@ Content-Disposition: form-data; name=”description” </code></pre>
 		</div>
 							</div>
 		</section>
-						</div>
-					</div>
+							</div>
 		<p>The post <a rel="nofollow" href="/blog/building-rest-apis-the-right-way/">Building REST APIs the Right Way</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
