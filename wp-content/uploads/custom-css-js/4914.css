@@ -1,5 +1,18 @@
 <!-- start Simple Custom CSS and JS -->
 <style type="text/css">
+.mg-neg-price
+{
+  
+  
+ margin-top: 175px; 
+  
+  
+  
+}
+
+
+
+
 .pricing-container ul
 {
   
@@ -16,7 +29,8 @@
 }
 
 .pricing-container {
-    margin: 6em auto;
+    margin-top: 6em;
+  margin-bottom: 6em;
 }
 .pricing-container.full-width {
     width: 100%;
