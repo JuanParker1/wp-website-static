@@ -1,5 +1,480 @@
 <!-- start Simple Custom CSS and JS -->
 <style type="text/css">
+/* Careers card */
+
+.career-cards .lk-elementor-price-table-skin__title
+{
+  
+  
+  
+ height: 60px; 
+  
+  
+  
+}
+
+
+.border-goose-wing
+{
+  
+ border-color: #d9dee5; 
+  
+}
+
+
+/* Careers card */
+
+
+
+
+
+
+
+
+
+@media (min-width:320px) and (max-width:766px)
+  {
+
+
+.card-para-mobile
+{
+  
+  
+  font-size: 15px;
+  
+  
+}
+
+
+  }
+
+
+
+
+
+
+
+
+
+/* Fintech page - A fortune 500 markup */
+
+
+.hero-image-fortune-500 {
+  
+  height: max-content;  
+  
+  background-color: #F5F7F9;	
+   
+  
+}
+
+
+.hero-image-fortune-500 .top-row
+{
+  
+  background-color: #0C7FF2;	
+  height: max-content;
+  border-radius: 12px 12px 0 0;
+  
+  
+  
+  
+}
+
+.hero-image-fortune-500 .top-row-2
+{
+  
+  
+  height: max-content;
+ 
+  
+  
+  
+  
+}
+
+
+
+.hero-image-fortune-500 .top-row-2 .left-div
+{
+  
+  
+  background-color: #455666;
+   height: max-content;
+  width: 38%;
+  
+  
+  
+}
+
+
+.hero-image-fortune-500 .top-row-2 .bg-gray
+
+{
+  
+  
+  background-color: #F5F7F9;
+  
+  
+  
+  
+  
+}
+
+
+
+
+
+
+.hero-image-fortune-500 h2
+{
+  
+  font-family: "Montserrat", sans-serif  !important;   
+  font-weight: 700  !important; 
+  font-size: 24px ;
+  
+}
+
+
+
+
+
+
+
+
+
+@media (min-width:320px) and (max-width:766px)
+  {
+    
+    
+    
+    .hero-image-fortune-500 .font-sizer-case-study
+    {
+      
+      
+     
+     
+      
+    }
+    
+    
+    .hero-image-fortune-500 .btnsm
+    {
+      
+      padding: 10px 20px !important;
+      
+      
+    }
+    
+    
+  }
+
+
+
+
+
+.hero-image-fortune-500 .hero-text {
+  text-align: left;
+  
+  color: white;
+}
+
+.hero-image-fortune-500 .hero-text button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 10px 25px;
+  color: black;
+  background-color: #ddd;
+  text-align: center;
+  cursor: pointer;
+}
+
+.hero-image-fortune-500 .hero-text button:hover {
+  background-color: #555;
+  color: white;
+}
+
+
+
+
+/* Fintech page - A fortune 500 markup */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Fintech page - Driving returns markup */
+
+
+.hero-image-driving-returns {
+  background-image: url("/wp-content/uploads/2022/03/driving-hero.svg");
+  height: max-content;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 12px;
+  position: relative;
+   
+  
+}
+
+
+.hero-image-driving-returns h2
+{
+  
+  font-family: "Montserrat", sans-serif  !important;   
+  font-weight: 700  !important; 
+  
+  
+}
+
+.hero-image-driving-returns p
+{
+  
+  
+ width: 80%; 
+  
+  
+}
+
+
+
+
+
+
+
+@media (min-width:320px) and (max-width:766px)
+  {
+    
+    
+    
+    .hero-image-driving-returns .font-sizer-case-study
+    {
+      
+      
+     font-size: 26px !important; 
+     
+      
+    }
+    
+    
+    .hero-image-driving-returns .btnsm
+    {
+      
+      padding: 10px 20px !important;
+      
+      
+    }
+    
+    
+  }
+
+
+
+
+
+.hero-image-driving-returns .hero-text {
+  text-align: left;
+  
+  color: white;
+}
+
+.hero-image-driving-returns .hero-text button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 10px 25px;
+  color: black;
+  background-color: #ddd;
+  text-align: center;
+  cursor: pointer;
+}
+
+.hero-image-driving-returns .hero-text button:hover {
+  background-color: #555;
+  color: white;
+}
+
+
+
+
+/* Fintech page - Driving returns markup */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Transformer page - Escala banner markup */
+
+
+.hero-image-full {
+  background-image: url("/wp-content/uploads/2022/03/escala-1.svg");
+  height: 326px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 12px;
+  position: relative;
+}
+
+
+
+@media (min-width:767px) and (max-width:991px)
+  {
+    
+    .hero-image-full
+    
+    {
+      
+      height: 300px;
+      
+      
+    
+    }
+    
+    
+  }
+
+
+
+@media (min-width:320px) and (max-width:766px)
+  {
+    
+    .hero-image-full
+    
+    {
+      
+      height: 350px;
+      
+         
+    }
+    
+    .font-sizer-case-study
+    {
+      
+      
+     font-size: 20px !important; 
+      
+      
+    }
+    
+    
+    .btnsm
+    {
+      
+      padding: 10px 20px !important;
+      
+      
+    }
+    
+    
+  }
+
+
+
+
+
+.hero-text {
+  text-align: left;
+  
+  color: white;
+}
+
+.hero-text button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 10px 25px;
+  color: black;
+  background-color: #ddd;
+  text-align: center;
+  cursor: pointer;
+}
+
+.hero-text button:hover {
+  background-color: #555;
+  color: white;
+}
+
+
+
+
+/* Transformer page - Escala banner markup */
+
+
+
+
+
+
+
+.elementor-element-d8e750f .card-body
+{
+  
+ height: 579px; 
+  
+}
+
+
+@media (min-width:320px) and (max-width:1024px)
+  {
+    
+    
+    
+    
+    
+    .elementor-element-d8e750f .card-body
+{
+  
+ height: 974px; 
+  
+}
+    
+    
+    
+    
+    
+    
+  }
+
+
+
+
+
+
+
+.bg-goose-lightest
+{
+  
+  background-color: #e9ecf0;
+  padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    margin-right: 10px;
+  
+}
+
+
+
+
+
 .elementor-element-146093f2
 {
   
