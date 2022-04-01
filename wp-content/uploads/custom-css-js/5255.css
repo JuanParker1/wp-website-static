@@ -26,6 +26,31 @@ th {
     
     margin: 0 auto;
 }
+
+
+.main-price-table .price-table td:nth-child(1)
+{
+	
+	
+	    width: 350px;
+	
+	
+}
+
+
+
+
+.main-price-table .price-table td:nth-child(2), .main-price-table .price-table td:nth-child(3)
+{
+	
+	
+	    width: 170px;
+	
+}
+
+
+
+
 .price-table {
    min-width: 1170px;
     border-collapse: collapse;
