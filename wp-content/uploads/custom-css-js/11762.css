@@ -901,51 +901,7 @@ section.elementor-element-1c93a1a8
 }
 
 
-.search-form.rounded.shadow.mb-4
-{
-	
-	display: none !important;
-}
 
-.ssp-search
-{
-	
-	margin-bottom: 20px;
-}
-
-
-.ssp-search .search-input
-{
-	
-	box-shadow: 0 .5rem 1.5rem rgba(22,28,45,.1)!important;
-	
-	border: 1px solid rgb(0 0 0 / 12%);
-	
-	border-radius: 6px 0 0 6px;
-		padding: 15px;
-}
-
-.search-submit
-{
-	padding: 15.5px !important;
-	background: #0c7ff2 !important;
-}
-
-.search-submit:focus
-{
-	
-	outline: none !important;
-}
-
-.ssp-search .search-input:focus-visible
-{
-	
-	outline: none !important;
-}
-
-.ssp-search .search-input:focus {
-    border-color: #0c7ff2 !important;
-}
 
 #to_top_scrollup
 {
