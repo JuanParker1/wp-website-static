@@ -1,5 +1,260 @@
 <!-- start Simple Custom CSS and JS -->
 <style type="text/css">
+#___gatsby .flex.flex-wrap.content-center.justify-center
+
+{
+	
+	width: 100%;
+	
+	
+	
+}
+
+
+
+
+
+@media (min-width:991px) and (max-width:1024px)
+
+{
+
+
+.elementor-element-9e73bdd .card-body, .elementor-element-8d3f23a .card-body
+
+	
+	{
+
+
+	min-height: 340px;	
+		
+		
+	}
+	
+	
+	
+.elementor-element-d778273 .card-body
+	
+	
+	{
+		
+	
+	min-height: 489px;
+	
+	
+	}
+	
+	
+	
+	
+
+	
+
+}
+
+
+
+
+
+
+@media (min-width:767px) and (max-width:990px)
+
+{
+
+
+.elementor-element-fe80ec0 .card-body
+
+	
+	{
+
+
+	min-height: 435px;	
+		
+		
+	}
+
+}
+
+
+
+
+
+@media (min-width:991px) and (max-width:1024px)
+
+{
+
+
+.elementor-element-c22ca1f .card-body, .elementor-element-3a98959 .card-body, .elementor-element-314031f .card-body
+
+
+	{
+		
+	    min-height: 450px;
+	
+	}
+
+
+.elementor-element-314031f .lk-elementor-price-table-skin__image
+	
+	{
+		
+		
+		margin-bottom: 10px;
+		
+		
+	}
+	
+	
+	
+}
+
+
+
+
+
+@media (min-width:767px) and (max-width:990px)
+
+{
+
+
+.elementor-element-3a98959 .card-body, .elementor-element-314031f .card-body
+
+
+	{
+		
+	    min-height: 613px;
+	
+	}
+
+
+.elementor-element-314031f .lk-elementor-price-table-skin__image
+	
+	{
+		
+		
+		margin-bottom: 10px;
+		
+		
+	}
+	
+	
+	
+}
+
+
+
+
+@media (min-width:1025px) and (max-width:4000px)
+
+{
+
+
+.elementor-element-3a98959 .card-body
+
+
+	{
+		
+	    min-height: 403px;
+	
+	}
+
+
+.elementor-element-314031f .lk-elementor-price-table-skin__image
+	
+	{
+		
+		
+		margin-bottom: 10px;
+		
+		
+	}
+	
+	
+	
+}
+
+
+
+
+@media (min-width:1025px) and (max-width:4000px)
+
+{
+
+
+.elementor-element-314031f .card-body
+
+
+	{
+		
+	    min-height: 393px;
+	
+	}
+
+
+.elementor-element-314031f .lk-elementor-price-table-skin__image
+	
+	{
+		
+		
+		margin-bottom: 10px;
+		
+		
+	}
+	
+	
+	
+}
+
+
+
+
+
+
+
+
+.elementor-element-7d30133f .elementor-edit-area-active .elementor-inline-editing, .elementor-element-494d022f .elementor-edit-area-active .elementor-inline-editing, .elementor-element-362c7819 .elementor-edit-area-active .elementor-inline-editing  
+
+
+{
+    min-height: 56px;
+}
+
+
+
+
+
+
+@media (min-width:991px) and (max-width:1024px)
+
+{
+
+.elementor-element-2a4c0944 .card-body
+{
+	
+	min-height: 460px;
+	
+	
+}	
+	
+	
+	 .elementor-element-2a4c0944 .lk-elementor-price-table-skin__image
+	
+	{
+		
+		
+		margin-bottom: 10px;
+		
+	}
+	
+	
+	
+}
+
+
+
+
+
+
+
 /* Careers card */
 
 .career-cards .lk-elementor-price-table-skin__title
@@ -434,7 +689,7 @@
 }
 
 
-@media (min-width:320px) and (max-width:1024px)
+@media (min-width:320px) and (max-width:991px)
   {
     
     
@@ -444,7 +699,30 @@
     .elementor-element-d8e750f .card-body
 {
   
- height: 974px; 
+ height: 970px; 
+  
+}
+    
+    
+    
+    
+    
+    
+  }
+
+
+
+@media (min-width:992px) and (max-width:1024px)
+  {
+    
+    
+    
+    
+    
+    .elementor-element-d8e750f .card-body
+{
+  
+ height: 712px; 
   
 }
     
@@ -857,12 +1135,71 @@ section.elementor-element-1c93a1a8
 {
   
   
-  min-height: 245px;
+      min-height: 245px;
   
 }
   
   
 }
+
+
+
+
+@media (min-width:991px) and (max-width:1024px)
+  
+  {
+
+
+.elementor-element-43708007 .card-body .lk-elementor-price-table-skin__description, .elementor-element-737fb2b0 .card-body .lk-elementor-price-table-skin__description, .elementor-element-2e54d249 .card-body .lk-elementor-price-table-skin__description
+{
+  
+  
+      min-height: 190px;
+  
+}
+  
+  
+}
+
+
+
+
+
+@media (min-width:991px) and (max-width:1024px)
+  
+  {
+
+
+.elementor-element-43708007 .card-body .lk-elementor-price-table-skin__title, .elementor-element-737fb2b0 .card-body .lk-elementor-price-table-skin__title, .elementor-element-2e54d249 .card-body .lk-elementor-price-table-skin__title
+{
+  
+  
+  font-size: 24px;
+  
+}
+  
+  
+}
+
+
+
+
+@media (min-width:991px) and (max-width:1024px)
+  
+  {
+
+
+.elementor-element-4a4df90 .lk-elementor-price-table-skin__description
+	  
+{
+  
+      min-height: 23px;
+  
+}
+  
+  
+}
+
 
 
 
