@@ -1,0 +1,35 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.container-showcase {
+    margin: 50px auto;
+    width: 90%;
+  	
+}
+
+.container-showcase ul {
+    list-style: none;
+    padding: 0;
+    margin: 0
+}
+
+.container-showcase ul li {
+    display: inline-block;
+    padding: 10px;
+    background: #EEE;
+    text-align: center;
+    cursor: pointer
+}
+
+.container-showcase ul li.inactive {background: #CCC}
+
+.container-showcase div {
+    background: #EEE;
+    padding: 10px;
+    min-height: 500px
+}
+
+.container-showcase div:not(:first-of-type) {display: none}
+
+
+</style>
+<!-- end Simple Custom CSS and JS -->
