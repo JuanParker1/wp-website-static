@@ -1,8 +1,0 @@
-<svg viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg">
-    <g fill-rule="nonzero" fill="none">
-		<path fill="#ECB22E" d="M476,276H326V126h150V276z M476,325H126v150h350V325z"/>
-		<path fill="#36C5F0" d="M675,873.2H525v-150h150V873.2z M874,524H524v150h350V524z"/>
-		<path fill="#2EB67D" d="M278,675.5H128v-150h150V675.5z M326,525v350h150V525H326z"/>
-		<path fill="#E01E5A" d="M873,476H723V326h150V476z M525,126v350h150V126H525z"/>
-	</g>
-</svg>
