@@ -31,7 +31,6 @@
 	<item>
 		<title>OpenAPI 3.1 &#8211; What&#8217;s New, and How to Migrate to/from Other API Specs?</title>
 		<link>/blog/migrating-to-and-from-openapi-3-1/</link>
-					<comments>/blog/migrating-to-and-from-openapi-3-1/#respond</comments>
 		
 		<dc:creator><![CDATA[Ali Raza]]></dc:creator>
 		<pubDate>Tue, 21 Sep 2021 12:40:43 +0000</pubDate>
@@ -297,15 +296,12 @@ content:
 		<p>The post <a rel="nofollow" href="/blog/migrating-to-and-from-openapi-3-1/">OpenAPI 3.1 &#8211; What&#8217;s New, and How to Migrate to/from Other API Specs?</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/blog/migrating-to-and-from-openapi-3-1/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>A Year with API Transformer</title>
 		<link>/blog/a-year-with-api-transformer/</link>
-					<comments>/blog/a-year-with-api-transformer/#respond</comments>
 		
 		<dc:creator><![CDATA[Faria Rehman]]></dc:creator>
 		<pubDate>Fri, 20 Apr 2018 10:53:46 +0000</pubDate>
@@ -561,15 +557,12 @@ content:
 		<p>The post <a rel="nofollow" href="/blog/a-year-with-api-transformer/">A Year with API Transformer</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/blog/a-year-with-api-transformer/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Common Mistakes Developers Make In Their OpenAPI 3 Files</title>
 		<link>/blog/common-mistakes-developers-make-in-their-openapi-3-files/</link>
-					<comments>/blog/common-mistakes-developers-make-in-their-openapi-3-files/#respond</comments>
 		
 		<dc:creator><![CDATA[Faria Rehman]]></dc:creator>
 		<pubDate>Fri, 09 Mar 2018 10:53:46 +0000</pubDate>
@@ -871,8 +864,6 @@ content:
 		<p>The post <a rel="nofollow" href="/blog/common-mistakes-developers-make-in-their-openapi-3-files/">Common Mistakes Developers Make In Their OpenAPI 3 Files</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/blog/common-mistakes-developers-make-in-their-openapi-3-files/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
