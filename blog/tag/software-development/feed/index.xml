@@ -31,7 +31,6 @@
 	<item>
 		<title>The Anatomy of API Code Samples</title>
 		<link>/blog/the-anatomy-of-api-code-samples/</link>
-					<comments>/blog/the-anatomy-of-api-code-samples/#respond</comments>
 		
 		<dc:creator><![CDATA[APIMatic]]></dc:creator>
 		<pubDate>Mon, 08 Jun 2020 11:02:52 +0000</pubDate>
@@ -655,15 +654,12 @@ public class PetModel {
 		<p>The post <a rel="nofollow" href="/blog/the-anatomy-of-api-code-samples/">The Anatomy of API Code Samples</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/blog/the-anatomy-of-api-code-samples/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>State of Developer Experience: SMS APIs 2020</title>
 		<link>/blog/state-of-developer-experience-sms-apis-2020/</link>
-					<comments>/blog/state-of-developer-experience-sms-apis-2020/#respond</comments>
 		
 		<dc:creator><![CDATA[APIMatic]]></dc:creator>
 		<pubDate>Mon, 02 Dec 2019 11:02:52 +0000</pubDate>
@@ -889,15 +885,12 @@ public class PetModel {
 		<p>The post <a rel="nofollow" href="/blog/state-of-developer-experience-sms-apis-2020/">State of Developer Experience: SMS APIs 2020</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/blog/state-of-developer-experience-sms-apis-2020/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>State of Developer Experience: Banking and FinTech 2019</title>
 		<link>/blog/state-of-developer-experience-banking-and-fintech-2019/</link>
-					<comments>/blog/state-of-developer-experience-banking-and-fintech-2019/#respond</comments>
 		
 		<dc:creator><![CDATA[APIMatic]]></dc:creator>
 		<pubDate>Tue, 09 Jul 2019 11:02:52 +0000</pubDate>
@@ -1104,15 +1097,12 @@ public class PetModel {
 		<p>The post <a rel="nofollow" href="/blog/state-of-developer-experience-banking-and-fintech-2019/">State of Developer Experience: Banking and FinTech 2019</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/blog/state-of-developer-experience-banking-and-fintech-2019/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>How to Create SDKs for your API in less than a Minute ⏰</title>
 		<link>/blog/how-to-create-sdks-for-your-api-in-less-than-a-minute/</link>
-					<comments>/blog/how-to-create-sdks-for-your-api-in-less-than-a-minute/#respond</comments>
 		
 		<dc:creator><![CDATA[APIMatic]]></dc:creator>
 		<pubDate>Mon, 26 Nov 2018 11:27:02 +0000</pubDate>
@@ -1389,15 +1379,12 @@ public class PetModel {
 		<p>The post <a rel="nofollow" href="/blog/how-to-create-sdks-for-your-api-in-less-than-a-minute/">How to Create SDKs for your API in less than a Minute ⏰</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/blog/how-to-create-sdks-for-your-api-in-less-than-a-minute/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Building REST APIs the Right Way</title>
 		<link>/blog/building-rest-apis-the-right-way/</link>
-					<comments>/blog/building-rest-apis-the-right-way/#respond</comments>
 		
 		<dc:creator><![CDATA[APIMatic]]></dc:creator>
 		<pubDate>Thu, 15 Mar 2018 11:02:51 +0000</pubDate>
@@ -1748,8 +1735,6 @@ Content-Disposition: form-data; name=”description” </code></pre>
 		<p>The post <a rel="nofollow" href="/blog/building-rest-apis-the-right-way/">Building REST APIs the Right Way</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/blog/building-rest-apis-the-right-way/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
