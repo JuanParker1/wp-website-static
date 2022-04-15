@@ -31,7 +31,6 @@
 	<item>
 		<title>Common Mistakes Developers Make In Their API Blueprint Files</title>
 		<link>/blog/common-mistakes-developers-make-in-their-api-blueprint-files/</link>
-					<comments>/blog/common-mistakes-developers-make-in-their-api-blueprint-files/#respond</comments>
 		
 		<dc:creator><![CDATA[Faria Rehman]]></dc:creator>
 		<pubDate>Wed, 12 Sep 2018 10:53:46 +0000</pubDate>
@@ -357,15 +356,12 @@ HOST: &lt;a href=&quot;http://hotname.com/&quot;&gt;http://hostname.com&lt;/a&gt
 		<p>The post <a rel="nofollow" href="/blog/common-mistakes-developers-make-in-their-api-blueprint-files/">Common Mistakes Developers Make In Their API Blueprint Files</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/blog/common-mistakes-developers-make-in-their-api-blueprint-files/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>From RAML Example Objects to Test Cases</title>
 		<link>/blog/from-raml-example-objects-to-test-cases/</link>
-					<comments>/blog/from-raml-example-objects-to-test-cases/#respond</comments>
 		
 		<dc:creator><![CDATA[Faria Rehman]]></dc:creator>
 		<pubDate>Wed, 19 Apr 2017 10:53:45 +0000</pubDate>
@@ -561,15 +557,12 @@ example: /invoices/45612</code></pre>
 		<p>The post <a rel="nofollow" href="/blog/from-raml-example-objects-to-test-cases/">From RAML Example Objects to Test Cases</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/blog/from-raml-example-objects-to-test-cases/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>API Blueprint Extension for Code Generation Settings</title>
 		<link>/blog/api-blueprint-extension-for-code-generation-settings/</link>
-					<comments>/blog/api-blueprint-extension-for-code-generation-settings/#respond</comments>
 		
 		<dc:creator><![CDATA[APIMatic]]></dc:creator>
 		<pubDate>Sat, 07 Nov 2015 11:02:52 +0000</pubDate>
@@ -754,8 +747,6 @@ ENABLEADDITIONALMODELPROPERTIES: FALSE</code></pre>
 		<p>The post <a rel="nofollow" href="/blog/api-blueprint-extension-for-code-generation-settings/">API Blueprint Extension for Code Generation Settings</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/blog/api-blueprint-extension-for-code-generation-settings/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
