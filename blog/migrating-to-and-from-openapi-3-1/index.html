@@ -46,8 +46,6 @@
 <link href="https://fonts.gstatic.com/" crossorigin="" rel="preconnect">
 <link rel="preconnect" href="https://fonts.googleapis.com/">
 <link rel="alternate" type="application/rss+xml" title="APIMatic &raquo; Feed" href="/feed/">
-<link rel="alternate" type="application/rss+xml" title="APIMatic &raquo; Comments Feed" href="/comments/feed/">
-<link rel="alternate" type="application/rss+xml" title="APIMatic &raquo; OpenAPI 3.1 &#8211; What&#8217;s New, and How to Migrate to/from Other API Specs? Comments Feed" href="/blog/migrating-to-and-from-openapi-3-1/feed/">
 <style type="text/css">img.wp-smiley,
 img.emoji {
 	display: inline !important;
@@ -67,7 +65,7 @@ img.emoji {
 <link rel="stylesheet" id="prismatic-highlight-css" href="/wp-content/uploads/hummingbird-assets/b568d92d27b8429cd336232579616a46.css" type="text/css" media="all">
 <link rel="stylesheet" id="wp-video-popup-css" href="/wp-content/uploads/hummingbird-assets/9873de7b0b1f2607c0049ab89a2f17a3.css" type="text/css" media="all">
 <link rel="stylesheet" id="to-top-css" href="/wp-content/uploads/hummingbird-assets/8444617915c7b12fbc060dba60357fd0.css" type="text/css" media="all">
-<link rel="stylesheet" id="mm-compiled-options-mobmenu-css" href="/wp-content/uploads/dynamic-mobmenu.css?ver=2.8.2.7-895" type="text/css" media="all">
+<link rel="stylesheet" id="mm-compiled-options-mobmenu-css" href="/wp-content/uploads/dynamic-mobmenu.css?ver=2.8.2.7-229" type="text/css" media="all">
 <link rel="stylesheet" id="elementor-frontend-css" href="/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.6.4" type="text/css" media="all">
 <link rel="stylesheet" id="elementor-post-7-css" href="/wp-content/uploads/hummingbird-assets/b95a87afa2593e6bbe180d6b907f782e.css" type="text/css" media="all">
 <link rel="stylesheet" id="jquery-fancybox-css-css" href="/wp-content/themes/landkit/assets/libs/@fancyapps/fancybox/dist/jquery.fancybox.min.css?ver=1.0.11" type="text/css" media="all">
@@ -94,17 +92,19 @@ var to_top_options = {"scroll_offset":"100","icon_opacity":"100","style":"image"
 <link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fblog%2Fmigrating-to-and-from-openapi-3-1%2F">
 <link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fblog%2Fmigrating-to-and-from-openapi-3-1%2F&#038;format=xml">
 <!-- start Simple Custom CSS and JS -->
-<style type="text/css">#___gatsby .flex.flex-wrap.content-center.justify-center
-
-{
-	
-	width: 100%;
-	
-	
-	
+<style type="text/css">.hljs {
+    background: #23241f !important;
+    color: #f8f8f2  !important;
+	    margin-left: 20px;
+    margin-right: 20px;
 }
 
-
+pre code.hljs
+{
+	
+	padding: 2em !important;
+	
+}
 
 
 
@@ -2995,13 +2995,7 @@ th {
 
   gtag('config', 'G-7PG6FKNYH6');
 </script><!-- end Simple Custom CSS and JS -->
-		<script type="text/javascript">
-				(function(c,l,a,r,i,t,y){
-					c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;
-					t.src="https://www.clarity.ms/tag/"+i+"?ref=wordpress";y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-				})(window, document, "clarity", "script", "av4sm1i2r9");
-		</script>
-				<meta name="ssp-url" content="">
+		<meta name="ssp-url" content="">
 		<meta name="ssp-origin-url" content="aHR0cHM6Ly9ibG9nd3AuYXBpbWF0aWMuaW8=">
 
 					<meta name="ssp-config-url" content="/wp-content/plugins/simply-static-pro/configs/">
@@ -3643,38 +3637,7 @@ content:
                     </div>
                 </div>
             </div>
-                    </div>
-<div id="comments" class="mt-9">
-
-		<div id="respond" class="comment-respond bg-light border p-6">
-		<h3 id="reply-title" class="comment-reply-title mb-4 font-weight-bold">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/blog/migrating-to-and-from-openapi-3-1/#respond" style="display:none;">Cancel reply</a></small>
-</h3>
-<form action="/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
-<p class="font-size-sm text-muted">Your email address will not be published. Required fields are marked <span class="text-danger">*</span></p>
-<div class="form-group comment-form-comment mb-5">
-				<label class="input-label" for="comment">Comment</label>
-				<textarea id="comment" name="comment" class="form-control" rows="8" maxlength="65525" required></textarea>
-			</div>
-<div class="form-group comment-form-author mb-5">
-                <label class="input-label" for="author">Your name<span class="text-danger">*</span></label>
-                <input type="text" name="author" id="author" class="form-control" value="" maxlength="245" required>
-            </div>
-<div class="form-group comment-form-email mb-5">
-                <label class="input-label" for="email">Your email<span class="text-danger">*</span></label>
-                <input type="email" name="email" id="email" class="form-control" value="" maxlength="100" required>
-            </div>
-<div class="custom-control custom-checkbox mb-5 comment-form-cookies-consent">
-                    <input type="checkbox" id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" class="custom-control-input" value="yes">
-                    <label class="custom-control-label input-label" for="wp-comment-cookies-consent">Save my name and email in this browser for the next time I comment.</label>
-                </div>
-<div class="form-group form-submit d-flex justify-content-center mb-0">
-<button type="submit" name="submit" id="submit" class="btn btn-primary btn-wide transition-3d-hover">Post Comment</button><input type="hidden" name="comment_post_ID" value="1461" id="comment_post_ID">
-<input type="hidden" name="comment_parent" id="comment_parent" value="0">
-</div>
-</form>	</div>
-<!-- #respond -->
-	</div>
-                  </div>
+                    </div>                  </div>
               </div>
           </div>
       </section>
@@ -3784,10 +3747,8 @@ content:
 hljs.initHighlightingOnLoad();
 </script>
 <script type="text/javascript" src="/wp-includes/js/imagesloaded.min.js?ver=4.1.4" id="imagesloaded-js"></script>
-<script type="text/javascript" src="/wp-content/uploads/hummingbird-assets/da97ebf601156a5433784f424cb5348e.js" id="wphb-7-js"></script>
-<script type="text/javascript" src="/wp-includes/js/comment-reply.min.js?ver=5.9.3" id="comment-reply-js"></script>
-<script type="text/javascript" src="/wp-content/uploads/hummingbird-assets/28ff752ac3a697ed821446c08efe84ed.js" id="wphb-8-js"></script>
-<script type="text/javascript" id="wphb-8-js-after">
+<script type="text/javascript" src="/wp-content/uploads/hummingbird-assets/911b108a12a8f7b8b88fd21a5c3dad7c.js" id="wphb-7-js"></script>
+<script type="text/javascript" id="wphb-7-js-after">
 jQuery(document).on('lazybeforeunveil', function(){var e = jQuery( '.soliloquy-image:not(.lazyloaded)' );e.each(function(){lazySizes.loader.unveil(this);});});
 </script>
 <script type="text/javascript" src="/wp-includes/js/jquery/ui/core.min.js?ver=1.13.1" id="jquery-ui-core-js"></script>
