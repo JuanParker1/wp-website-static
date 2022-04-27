@@ -30,7 +30,7 @@
 </image> 
 	<item>
 		<title>Letting developers try endpoints right from API Documentation &#8211; UX Case Study</title>
-		<link>/blog/letting-developers-try-endpoints-right-from-api-documentation-ux-case-study/</link>
+		<link>/blog/2020/06/letting-developers-try-endpoints-right-from-api-documentation-ux-case-study/</link>
 		
 		<dc:creator><![CDATA[APIMatic]]></dc:creator>
 		<pubDate>Sun, 07 Jun 2020 11:02:52 +0000</pubDate>
@@ -45,7 +45,7 @@
 		<guid isPermaLink="false">https://devapi.dream.press/?p=389</guid>
 
 					<description><![CDATA[<p>Problem API documentation tells developers how to use a certain API. An API can have multiple endpoints. Developers read the API documentation to get an idea what does each endpoint do. To find out how these endpoints actually work they have to call those endpoints in their respective apps. Ultimately they find themselves jumping between [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/blog/letting-developers-try-endpoints-right-from-api-documentation-ux-case-study/">Letting developers try endpoints right from API Documentation &#8211; UX Case Study</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
+<p>The post <a rel="nofollow" href="/blog/2020/06/letting-developers-try-endpoints-right-from-api-documentation-ux-case-study/">Letting developers try endpoints right from API Documentation &#8211; UX Case Study</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="389" class="elementor elementor-389">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-1fcfba08 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1fcfba08" data-element_type="section">
@@ -256,7 +256,7 @@
 							</div>
 		</section>
 							</div>
-		<p>The post <a rel="nofollow" href="/blog/letting-developers-try-endpoints-right-from-api-documentation-ux-case-study/">Letting developers try endpoints right from API Documentation &#8211; UX Case Study</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
+		<p>The post <a rel="nofollow" href="/blog/2020/06/letting-developers-try-endpoints-right-from-api-documentation-ux-case-study/">Letting developers try endpoints right from API Documentation &#8211; UX Case Study</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -264,7 +264,7 @@
 			</item>
 		<item>
 		<title>Moving to GraphQL from SOAP or REST</title>
-		<link>/blog/moving-to-graphql-from-soap-or-rest/</link>
+		<link>/blog/2019/07/moving-to-graphql-from-soap-or-rest/</link>
 		
 		<dc:creator><![CDATA[Faria Rehman]]></dc:creator>
 		<pubDate>Fri, 12 Jul 2019 11:27:02 +0000</pubDate>
@@ -279,7 +279,7 @@
 		<guid isPermaLink="false">https://devapi.dream.press/?p=624</guid>
 
 					<description><![CDATA[<p>This blog is the fourth part of the series called “API Transformer Recipes”. The series aims to highlight numerous ways in which developers can integrate&#160;API Transformer into their workflow in order to gain access to a wide range of tools and frameworks. Hopefully, it will help eliminate any assumptions that they have about being restricted [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/blog/moving-to-graphql-from-soap-or-rest/">Moving to GraphQL from SOAP or REST</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
+<p>The post <a rel="nofollow" href="/blog/2019/07/moving-to-graphql-from-soap-or-rest/">Moving to GraphQL from SOAP or REST</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="624" class="elementor elementor-624">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-5fc28771 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5fc28771" data-element_type="section">
@@ -646,7 +646,7 @@ schema {
 							</div>
 		</section>
 							</div>
-		<p>The post <a rel="nofollow" href="/blog/moving-to-graphql-from-soap-or-rest/">Moving to GraphQL from SOAP or REST</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
+		<p>The post <a rel="nofollow" href="/blog/2019/07/moving-to-graphql-from-soap-or-rest/">Moving to GraphQL from SOAP or REST</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -654,7 +654,7 @@ schema {
 			</item>
 		<item>
 		<title>Phil Sturgeon, Transforming APIs @ WeWork</title>
-		<link>/blog/phil-sturgeon-transforming-apis-wework/</link>
+		<link>/blog/2018/07/phil-sturgeon-transforming-apis-wework/</link>
 		
 		<dc:creator><![CDATA[APIMatic]]></dc:creator>
 		<pubDate>Tue, 17 Jul 2018 12:07:33 +0000</pubDate>
@@ -665,7 +665,7 @@ schema {
 		<guid isPermaLink="false">https://devapi.dream.press/?p=1111</guid>
 
 					<description><![CDATA[<p>Phil Sturgeon&#160;is a Platform Engineer @ WeWork&#160;. He loves talking about APIs and working with them. He is a big advocate for API Specifications and is an extensive user of APIMatic’s Transformer. We got an opportunity to talk to him and made the most out of it. Read on to find out more about our [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/blog/phil-sturgeon-transforming-apis-wework/">Phil Sturgeon, Transforming APIs @ WeWork</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
+<p>The post <a rel="nofollow" href="/blog/2018/07/phil-sturgeon-transforming-apis-wework/">Phil Sturgeon, Transforming APIs @ WeWork</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1111" class="elementor elementor-1111">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-fc05871 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fc05871" data-element_type="section">
@@ -744,7 +744,7 @@ schema {
 							</div>
 		</section>
 							</div>
-		<p>The post <a rel="nofollow" href="/blog/phil-sturgeon-transforming-apis-wework/">Phil Sturgeon, Transforming APIs @ WeWork</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
+		<p>The post <a rel="nofollow" href="/blog/2018/07/phil-sturgeon-transforming-apis-wework/">Phil Sturgeon, Transforming APIs @ WeWork</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -752,7 +752,7 @@ schema {
 			</item>
 		<item>
 		<title>Startup Support Program on Our 4th Birthday</title>
-		<link>/blog/startup-support-program-on-our-4th-birthday/</link>
+		<link>/blog/2018/05/startup-support-program-on-our-4th-birthday/</link>
 		
 		<dc:creator><![CDATA[Adeel Ali]]></dc:creator>
 		<pubDate>Thu, 17 May 2018 07:17:58 +0000</pubDate>
@@ -761,7 +761,7 @@ schema {
 		<guid isPermaLink="false">https://devapi.dream.press/?p=1113</guid>
 
 					<description><![CDATA[<p>APIMatic has turned 4 this month. Last year we began a tradition of introducing something new and contributing to the community at our anniversary every year. Carrying on with the tradition, I am pleased to make a couple of announcements today: Start-up Support&#160;Program Start-up life is amazing. Dreams, energy, passion, resilience — everything is on a high [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/blog/startup-support-program-on-our-4th-birthday/">Startup Support Program on Our 4th Birthday</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
+<p>The post <a rel="nofollow" href="/blog/2018/05/startup-support-program-on-our-4th-birthday/">Startup Support Program on Our 4th Birthday</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1113" class="elementor elementor-1113">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-133d8065 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="133d8065" data-element_type="section">
@@ -793,7 +793,7 @@ schema {
 							</div>
 		</section>
 							</div>
-		<p>The post <a rel="nofollow" href="/blog/startup-support-program-on-our-4th-birthday/">Startup Support Program on Our 4th Birthday</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
+		<p>The post <a rel="nofollow" href="/blog/2018/05/startup-support-program-on-our-4th-birthday/">Startup Support Program on Our 4th Birthday</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -801,7 +801,7 @@ schema {
 			</item>
 		<item>
 		<title>Common Mistakes Developers Make In Their RAML Files</title>
-		<link>/blog/common-mistakes-developers-make-in-their-raml-files/</link>
+		<link>/blog/2018/04/common-mistakes-developers-make-in-their-raml-files/</link>
 		
 		<dc:creator><![CDATA[Faria Rehman]]></dc:creator>
 		<pubDate>Fri, 27 Apr 2018 10:53:45 +0000</pubDate>
@@ -814,7 +814,7 @@ schema {
 		<guid isPermaLink="false">https://devapi.dream.press/?p=550</guid>
 
 					<description><![CDATA[<p>RESTful API Modeling Language more commonly known as&#160;RAML&#160;has been around for quite some time now (more than 4 years). As its name suggests, it is an API Modeling language used by plenty of developers to design their APIs from scratch. It offers features like reusable libraries, traits, etc. that are not yet available in other [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/blog/common-mistakes-developers-make-in-their-raml-files/">Common Mistakes Developers Make In Their RAML Files</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
+<p>The post <a rel="nofollow" href="/blog/2018/04/common-mistakes-developers-make-in-their-raml-files/">Common Mistakes Developers Make In Their RAML Files</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="550" class="elementor elementor-550">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-6cc6a963 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6cc6a963" data-element_type="section">
@@ -1351,7 +1351,7 @@ types:
 							</div>
 		</section>
 							</div>
-		<p>The post <a rel="nofollow" href="/blog/common-mistakes-developers-make-in-their-raml-files/">Common Mistakes Developers Make In Their RAML Files</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
+		<p>The post <a rel="nofollow" href="/blog/2018/04/common-mistakes-developers-make-in-their-raml-files/">Common Mistakes Developers Make In Their RAML Files</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -1359,7 +1359,7 @@ types:
 			</item>
 		<item>
 		<title>A Year with API Transformer</title>
-		<link>/blog/a-year-with-api-transformer/</link>
+		<link>/blog/2018/04/a-year-with-api-transformer/</link>
 		
 		<dc:creator><![CDATA[Faria Rehman]]></dc:creator>
 		<pubDate>Fri, 20 Apr 2018 10:53:46 +0000</pubDate>
@@ -1372,7 +1372,7 @@ types:
 		<guid isPermaLink="false">https://devapi.dream.press/?p=592</guid>
 
 					<description><![CDATA[<p>Developers today are actively seeking relevant tools and frameworks in order to make their API design and consumption process as easy and efficient as possible. An important part of this process is describing the API in any of the available specification formats. And since each of the API description formats come with their own toolset, [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/blog/a-year-with-api-transformer/">A Year with API Transformer</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
+<p>The post <a rel="nofollow" href="/blog/2018/04/a-year-with-api-transformer/">A Year with API Transformer</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="592" class="elementor elementor-592">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-20b0caaf elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="20b0caaf" data-element_type="section">
@@ -1612,7 +1612,7 @@ types:
 							</div>
 		</section>
 							</div>
-		<p>The post <a rel="nofollow" href="/blog/a-year-with-api-transformer/">A Year with API Transformer</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
+		<p>The post <a rel="nofollow" href="/blog/2018/04/a-year-with-api-transformer/">A Year with API Transformer</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -1620,7 +1620,7 @@ types:
 			</item>
 		<item>
 		<title>Evolution of Developer Experience Portal UI: Case Study</title>
-		<link>/blog/evolution-of-developer-experience-portal-ui-case-study/</link>
+		<link>/blog/2018/03/evolution-of-developer-experience-portal-ui-case-study/</link>
 		
 		<dc:creator><![CDATA[APIMatic]]></dc:creator>
 		<pubDate>Thu, 29 Mar 2018 11:02:52 +0000</pubDate>
@@ -1633,7 +1633,7 @@ types:
 		<guid isPermaLink="false">https://devapi.dream.press/?p=606</guid>
 
 					<description><![CDATA[<p>Developer Experience (DX) is the equivalent of User Experience (UX) when it comes to a developer. It’s essentially the experience, a developer goes through when making use of software products like APIs, SDKs, Client libraries, and other such tools and services. At APIMatic, we wanted to streamline the API consumption process and put all our [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/blog/evolution-of-developer-experience-portal-ui-case-study/">Evolution of Developer Experience Portal UI: Case Study</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
+<p>The post <a rel="nofollow" href="/blog/2018/03/evolution-of-developer-experience-portal-ui-case-study/">Evolution of Developer Experience Portal UI: Case Study</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="606" class="elementor elementor-606">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-7edabedc elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7edabedc" data-element_type="section">
@@ -1964,7 +1964,7 @@ types:
 							</div>
 		</section>
 							</div>
-		<p>The post <a rel="nofollow" href="/blog/evolution-of-developer-experience-portal-ui-case-study/">Evolution of Developer Experience Portal UI: Case Study</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
+		<p>The post <a rel="nofollow" href="/blog/2018/03/evolution-of-developer-experience-portal-ui-case-study/">Evolution of Developer Experience Portal UI: Case Study</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -1972,7 +1972,7 @@ types:
 			</item>
 		<item>
 		<title>How Automation Leveled Up Idfy&#8217;s Digital Identity Game</title>
-		<link>/blog/how-automation-leveled-up-idfys-digital-identity-game/</link>
+		<link>/blog/2018/03/how-automation-leveled-up-idfys-digital-identity-game/</link>
 		
 		<dc:creator><![CDATA[APIMatic]]></dc:creator>
 		<pubDate>Thu, 22 Mar 2018 11:56:02 +0000</pubDate>
@@ -1982,7 +1982,7 @@ types:
 		<guid isPermaLink="false">https://devapi.dream.press/?p=1117</guid>
 
 					<description><![CDATA[<p>Automation was the tool that ended up giving Idfy a competitive advantage. It helped them expand their services to multiple developer platforms, and improve their API’s adoption as well as developer experience — all without substantial effort from their end. Idfy is a Norwegian API provider which helps businesses integrate services such as authentication, electronic seals, and [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/blog/how-automation-leveled-up-idfys-digital-identity-game/">How Automation Leveled Up Idfy&#8217;s Digital Identity Game</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
+<p>The post <a rel="nofollow" href="/blog/2018/03/how-automation-leveled-up-idfys-digital-identity-game/">How Automation Leveled Up Idfy&#8217;s Digital Identity Game</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1117" class="elementor elementor-1117">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-cad84ba elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="cad84ba" data-element_type="section">
@@ -2097,7 +2097,7 @@ Initially, we communicated through emails and that was frustrating. But when we 
 							</div>
 		</section>
 							</div>
-		<p>The post <a rel="nofollow" href="/blog/how-automation-leveled-up-idfys-digital-identity-game/">How Automation Leveled Up Idfy&#8217;s Digital Identity Game</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
+		<p>The post <a rel="nofollow" href="/blog/2018/03/how-automation-leveled-up-idfys-digital-identity-game/">How Automation Leveled Up Idfy&#8217;s Digital Identity Game</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -2105,7 +2105,7 @@ Initially, we communicated through emails and that was frustrating. But when we 
 			</item>
 		<item>
 		<title>Revamped HTTP docs on API Portal </title>
-		<link>/blog/revamped-http-docs-on-api-portal/</link>
+		<link>/blog/2018/03/revamped-http-docs-on-api-portal/</link>
 		
 		<dc:creator><![CDATA[Mehdi Raza Jaffery]]></dc:creator>
 		<pubDate>Thu, 22 Mar 2018 07:29:54 +0000</pubDate>
@@ -2115,7 +2115,7 @@ Initially, we communicated through emails and that was frustrating. But when we 
 		<guid isPermaLink="false">https://devapi.dream.press/?p=1115</guid>
 
 					<description><![CDATA[<p>The fight for improving the Developer Experience in API portals is not over yet! In fact, we have just released a major revamp of HTTP documentation to all our customers. ? Let’s see the new features in detail. ?‍? New Curl&#160;Examples Our HTTP docs now show an API console with Curl commands for each endpoint. [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/blog/revamped-http-docs-on-api-portal/">Revamped HTTP docs on API Portal </a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
+<p>The post <a rel="nofollow" href="/blog/2018/03/revamped-http-docs-on-api-portal/">Revamped HTTP docs on API Portal </a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1115" class="elementor elementor-1115">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-40634189 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="40634189" data-element_type="section">
@@ -2189,7 +2189,7 @@ Initially, we communicated through emails and that was frustrating. But when we 
 							</div>
 		</section>
 							</div>
-		<p>The post <a rel="nofollow" href="/blog/revamped-http-docs-on-api-portal/">Revamped HTTP docs on API Portal </a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
+		<p>The post <a rel="nofollow" href="/blog/2018/03/revamped-http-docs-on-api-portal/">Revamped HTTP docs on API Portal </a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -2197,7 +2197,7 @@ Initially, we communicated through emails and that was frustrating. But when we 
 			</item>
 		<item>
 		<title>Building REST APIs the Right Way</title>
-		<link>/blog/building-rest-apis-the-right-way/</link>
+		<link>/blog/2018/03/building-rest-apis-the-right-way/</link>
 		
 		<dc:creator><![CDATA[APIMatic]]></dc:creator>
 		<pubDate>Thu, 15 Mar 2018 11:02:51 +0000</pubDate>
@@ -2208,7 +2208,7 @@ Initially, we communicated through emails and that was frustrating. But when we 
 		<guid isPermaLink="false">https://devapi.dream.press/?p=576</guid>
 
 					<description><![CDATA[<p>Let’s be honest, if you want developers to make use of your APIs, you need to make sure they deliver. And despite the incredible functionality and value your API brings to the table, if it is not designed or implemented well, it may never become a cult favorite or something developers are going to recommend [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/blog/building-rest-apis-the-right-way/">Building REST APIs the Right Way</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
+<p>The post <a rel="nofollow" href="/blog/2018/03/building-rest-apis-the-right-way/">Building REST APIs the Right Way</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="576" class="elementor elementor-576">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-11ed5981 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="11ed5981" data-element_type="section">
@@ -2545,7 +2545,7 @@ Content-Disposition: form-data; name=”description” </code></pre>
 							</div>
 		</section>
 							</div>
-		<p>The post <a rel="nofollow" href="/blog/building-rest-apis-the-right-way/">Building REST APIs the Right Way</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
+		<p>The post <a rel="nofollow" href="/blog/2018/03/building-rest-apis-the-right-way/">Building REST APIs the Right Way</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
 		
