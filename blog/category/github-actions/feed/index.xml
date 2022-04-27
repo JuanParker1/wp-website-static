@@ -30,7 +30,7 @@
 </image> 
 	<item>
 		<title>A GitHub Action for Transforming APIs</title>
-		<link>/blog/a-github-action-for-transforming-apis/</link>
+		<link>/blog/2020/11/a-github-action-for-transforming-apis/</link>
 		
 		<dc:creator><![CDATA[APIMatic]]></dc:creator>
 		<pubDate>Mon, 30 Nov 2020 09:42:40 +0000</pubDate>
@@ -43,7 +43,7 @@
 		<guid isPermaLink="false">https://apimatic-blog.000webhostapp.com/?p=128</guid>
 
 					<description><![CDATA[<p>How does it work? This Github Action uploads and converts any API Specification into one of the supported formats listed here, The user just need to use the GitHub action in their repository on GitHub and provide the API Specification URL and export format as the arguments to the action. It provides the URL to [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/blog/a-github-action-for-transforming-apis/">A GitHub Action for Transforming APIs</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
+<p>The post <a rel="nofollow" href="/blog/2020/11/a-github-action-for-transforming-apis/">A GitHub Action for Transforming APIs</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="128" class="elementor elementor-128">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-fe52aa3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fe52aa3" data-element_type="section">
@@ -274,7 +274,7 @@ jobs:
 							</div>
 		</section>
 							</div>
-		<p>The post <a rel="nofollow" href="/blog/a-github-action-for-transforming-apis/">A GitHub Action for Transforming APIs</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
+		<p>The post <a rel="nofollow" href="/blog/2020/11/a-github-action-for-transforming-apis/">A GitHub Action for Transforming APIs</a> appeared first on <a rel="nofollow" href="/">APIMatic</a>.</p>
 ]]></content:encoded>
 					
 		
