@@ -20,4 +20,4 @@ Disallow: /blog/tag/log4j/
 
 
 
-Sitemap: https://www.apimatic.io/sitemap.xml
+Sitemap: https://apimatic.io/sitemap.xml
